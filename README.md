@@ -16,6 +16,11 @@ yarn server
 ```
 yarn server watches for changes using nodemon
 
+## React App starting both server and React same time:
+```
+npm run dev
+```
+
 ## Accessing GraphQL in browser:
 ```
 http://localhost:5000/graphql
