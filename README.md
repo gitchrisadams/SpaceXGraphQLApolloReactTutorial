@@ -1,6 +1,9 @@
 ## Project information
 Demonstrates using GraphQL and Apollo with React
 
+<img width="1522" height="530" alt="image" src="https://github.com/user-attachments/assets/ce751974-6394-4ed7-84c6-9aade9de08fa" />
+
+
 ## Getting started
 
 ## Backend Setup (Root directory)
