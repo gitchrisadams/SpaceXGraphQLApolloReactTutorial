@@ -2,19 +2,16 @@
 Demonstrates using GraphQL and Apollo with React
 
 ## Getting started
+
+## Backend Setup (Root directory)
 ```
 npm install
 ```
 
-## Running the project
+## Frontend Setup(client folder)
 ```
-npm start
+npm install
 ```
-or
-```
-yarn server
-```
-yarn server watches for changes using nodemon
 
 ## React App starting both server and React same time:
 ```
